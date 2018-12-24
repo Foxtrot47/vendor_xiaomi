@@ -1,4 +1,8 @@
 service wifidisplayhalservice /vendor/bin/wifidisplayhalservice
   class main
   user system
+<<<<<<< HEAD
   group drmrpc inet input net_admin mediadrm audio system
+=======
+  group drmrpc inet input net_admin mediadrm audio
+>>>>>>> 209e88d3 (rolex: Add QCOM's WFD implementation)
