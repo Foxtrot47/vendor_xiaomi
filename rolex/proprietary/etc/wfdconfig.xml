@@ -211,7 +211,7 @@
                     SINGLETOUCH           BIT2
                     MULTITOUCH            BIT3
                     JOYSTICK              BIT4
-                    CAMERA                BIT5
+                    UIBC_CAMERA           BIT5
                     GESTURE               BIT6
                     REMOTECONTROL         BIT7
                 -->
