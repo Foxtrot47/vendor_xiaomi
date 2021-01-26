@@ -1889,6 +1889,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libmmqjpegdma.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpegdma.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libmmsw_detail_enhancement.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_detail_enhancement.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libmmsw_math.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_math.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libmmosal_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmosal_proprietary.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libmmsw_opencl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_opencl.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libmmsw_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_platform.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libmorpho_easy_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmorpho_easy_hdr.so \
